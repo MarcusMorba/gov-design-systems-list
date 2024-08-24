@@ -105,6 +105,7 @@ A list of design systems and design resources that gov departments have created.
 
 ## Germany
 - State of Schleswig-Holstein: https://www.design-system.sh/
+- Digital Service Bund (early stage): https://digitalservicebund.github.io/angie/
 
 ## Greece
 - Central government: https://guide.services.gov.gr/
